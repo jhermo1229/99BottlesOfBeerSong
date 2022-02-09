@@ -1,0 +1,35 @@
+.container {
+  margin-left: 25%;
+  margin-top: 10%;
+  width: 50%;
+  border: 10px solid green;
+  padding: 1px;
+  background-color: black;
+}
+
+#title {
+  text-align: center;
+  color: green;
+}
+#div1 {
+  display: flex;
+  padding-top: 1%;
+  padding-bottom: 0.5px;
+  padding-left: 40%;
+}
+
+#myButton {
+  background-color: green;
+  font-size: medium;
+}
+
+#myForm {
+  font-size: 2rem;
+  padding-left: 20px;
+  color: green;
+}
+
+#myMusic {
+  position: absolute;
+  right: 0px;
+}
